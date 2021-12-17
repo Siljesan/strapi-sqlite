@@ -33,6 +33,9 @@
     },
     "Featured": {
       "type": "boolean"
+    },
+    "imgUrl": {
+      "type": "string"
     }
   }
 }
